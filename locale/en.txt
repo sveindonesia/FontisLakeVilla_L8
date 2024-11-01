@@ -58,7 +58,7 @@ Label_F313DD17_E963_D53C_41AC_6BC1F5D748A6.text = BETA 3.5 X 9 ( 2KT )
 ## Media
 
 ### Title
-map_8D3587A8_99C2_66C9_41C1_A2755E095DC8.label = L 8 - Floorplan
+map_ECF7F182_E7C9_8189_41E1_38813AEC7138.label = L 8 - Floorplan
 panorama_A0000847_AF18_1F1E_41CF_292AECDE0F5D.label = L8 - View Master Bedroom
 panorama_A0096780_AF18_1113_41E3_4015C8D9162D.label = L8 - View Dining Room
 panorama_A0447065_AF28_6F12_41DF_14B3C2619CE3.label = L8 - View Boy's Bedroom
